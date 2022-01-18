@@ -2,7 +2,7 @@
 
 {
 	"ip":"yuniti.aternos.me",
-	"port": "25565",
+	"port": "22231",
 	"name": "SEGGSBOT",
 	"auto-night-skip":"false"
 }
